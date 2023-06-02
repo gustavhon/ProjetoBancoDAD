@@ -1,0 +1,191 @@
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.exe.config
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.exe
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.pdb
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.Form1.resources
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmSexo.resources
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.Properties.Resources.resources
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.exe
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.pdb
+C:\Users\User\source\repos\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCliente.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.AssemblyReference.cache
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.SuggestedBindingRedirects.cache
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.Form1.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmBairro.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCep.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCidade.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCliente.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmOperadora.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmRua.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmSexo.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmTelefone.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmTrabalho.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmUf.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.Properties.Resources.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.GenerateResource.cache
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.CoreCompileInputs.cache
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmAcesso.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCompraProduto.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmControleLogSistema.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmFornecedor.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmFuncao.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmFuncionario.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensAcessoLogin.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensCompraProduto.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneCliente.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneFornecedor.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneFuncionario.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneTrabalho.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensVendaProduto.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmLogin.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmLoja.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmMarca.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmParcelaCompra.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmProduto.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmSituacao.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmTipo.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneLoja.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmVendaProduto.resources
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.exe.config
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.exe
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.pdb
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.exe
+F:\DAD\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.pdb
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.AssemblyReference.cache
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.Form1.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmAcesso.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmBairro.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCep.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCidade.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCliente.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCompraProduto.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmControleLogSistema.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmFornecedor.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmFuncao.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmFuncionario.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmImagens.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensAcessoLogin.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensCompraProduto.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneCliente.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneFornecedor.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneFuncionario.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneTrabalho.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensVendaProduto.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmLogin.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmLoja.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmMarca.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmOperadora.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmParcelaCompra.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmParcelaVenda.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmProduto.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmRua.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmSexo.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmSituacao.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmTelefone.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmTipo.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmTrabalho.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmUf.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneLoja.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmVendaProduto.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.GenerateResource.cache
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.exe
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.pdb
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.Properties.Resources.resources
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.exe.config
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.exe
+C:\Users\Gustavo Martinelli\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD-main\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.pdb
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.exe.config
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.exe
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.pdb
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.AssemblyReference.cache
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.Form1.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmAcesso.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmBairro.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCep.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCidade.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCliente.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCompraProduto.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmControleLogSistema.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmFornecedor.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmFuncao.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmFuncionario.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmImagens.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensAcessoLogin.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensCompraProduto.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneCliente.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneFornecedor.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneFuncionario.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneTrabalho.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensVendaProduto.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmLogin.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmLoja.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmMarca.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmOperadora.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmParcelaCompra.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmParcelaVenda.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmProduto.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmRua.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmSexo.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmSituacao.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmTelefone.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmTipo.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmTrabalho.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmUf.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneLoja.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmVendaProduto.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.Properties.Resources.resources
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.GenerateResource.cache
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.exe
+C:\Users\Gustavo Martinelli\Desktop\ProjetoBancoDAD\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.pdb
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.exe.config
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.exe
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\bin\Debug\ProjetoBancoDAD.pdb
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.Form1.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmAcesso.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmBairro.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCep.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCidade.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCliente.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmCompraProduto.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmControleLogSistema.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmFornecedor.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmFuncao.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmFuncionario.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmImagens.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensAcessoLogin.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensCompraProduto.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneCliente.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneFornecedor.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneFuncionario.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneTrabalho.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensVendaProduto.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmLogin.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmLoja.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmMarca.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmOperadora.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmParcelaCompra.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmParcelaVenda.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmProduto.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmRua.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmSexo.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmSituacao.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmTelefone.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmTipo.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmTrabalho.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmUf.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmItensTelefoneLoja.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.FrmVendaProduto.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.Properties.Resources.resources
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.exe
+C:\Users\User\Downloads\ProjetoBancoDAD-main\ProjetoBancoDAD\obj\Debug\ProjetoBancoDAD.pdb
